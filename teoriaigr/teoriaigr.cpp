@@ -230,7 +230,7 @@ int main() {
 	double* strB = new double[col]; //окончательный массив игрока B
 	for (int i = 0; i < itr; i++)
 	{
-		for (int j = 0; j < 3; j++)
+		for (int j = 0; j < row; j++)
 		{
 			A[i][j] = 0;
 			SA[i][j] = 0;
