@@ -4,6 +4,7 @@
 #include <stdio.h>
 #include <iomanip>
 #include <locale.h>
+#include <math.h> 
 #include <ctime> 
 using namespace std;
 
